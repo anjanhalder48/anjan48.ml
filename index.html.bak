@@ -175,44 +175,10 @@
     </div>
   </div>
 </div>
-<div class="section" id="projects"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 ml-auto mr-auto">
-        <div class="h4 text-center mb-4 title">Projects</div>
-        <div class="nav-align-center">
-          <ul class="nav nav-pills nav-pills-primary" role="tablist">
-            <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#projects" role="tablist"><i class="fa fa-laptop" aria-hidden="true"></i></a></li>
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#Photography" role="tablist"><i class="fa fa-camera" aria-hidden="true"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="tab-content gallery mt-5">
-      <div class="tab-pane active" id="projects">
-        <div class="ml-auto mr-auto">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#projects">
-                   <div class="h4"><a href="https://play.google.com/store/apps/details?id=com.amsa.plover">Chat App (2019)</a></div>
-                    </a></div>
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#projects">
-                 <div class="h4"><a href="https://play.google.com/store/apps/details?id=com.amsa.depressioninventory">Depression test and counsellingChat App (2019)</a></div>
-                    </a></div>
-            </div>
-            <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#projects">
-                 <div class="h4"><a href="https://play.google.com/store/apps/details?id=com.amsa.sellapp">Sales Record Inventory – A business management application</a></div>
-                    </a></div>
-                  
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#projects">
-                 <div class="h4"><a href="https://electricity-bill-management-system.000webhostapp.com/">Online Retail Management System (2018)</a></div>
-                    </a></div>
-                  
-            </div>
-          </div>
-        </div>
-      </div>
+
+
+
+
 
       <div class="tab-pane" id="Photography" role="tabpanel">
         <div class="ml-auto mr-auto">
