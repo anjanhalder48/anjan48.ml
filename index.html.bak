@@ -148,7 +148,7 @@
             </div>
           </div>
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">SASS</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">C/C++</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
               </div>
@@ -360,7 +360,7 @@ hive, Basic Unix command, Vmware </div>
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
-            <p>March 2015 - May 2021</p>
+            <p>March 2015 - June 2021</p>
             <div class="h5">Bachelor's Degree</div>
           </div>
         </div>
@@ -368,7 +368,7 @@ hive, Basic Unix command, Vmware </div>
           <div class="card-body">
             <div class="h5">Bachelor of Computer Science and Engineering</div>
             <p class="category">Chittagong University of Engineering and Technology</p>
-            <p class="category">CGPA 3.20/4.00</p>
+            <p class="category">CGPA 3.02/4.00</p>
           </div>
         </div>
       </div>
@@ -393,7 +393,7 @@ hive, Basic Unix command, Vmware </div>
       <div class="row">
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-education-header">
-            <p>2009 - 2011</p>
+            <p>2010 - 2012</p>
             <div class="h5">S.S.C.</div>
           </div>
         </div>
@@ -502,11 +502,11 @@ hive, Basic Unix command, Vmware </div>
                 <div class="col-md-6">
                   <div class="card-body">
                     <p class="mb-0"><strong>Address </strong></p>
-                    <p class="pb-2">Mirpur-1, Dhaka-1216, Bangladesh</p>
+                    <p class="pb-2">Sreeramkathi, Nazirpur, Pirojpur, Bangladesh</p>
                     <p class="mb-0"><strong>Phone</strong></p>
-                    <p class="pb-2">+8801521579898</p>
+                    <p class="pb-2">+8801771041286</p>
                     <p class="mb-0"><strong>Email</strong></p>
-                    <p>jahirul.amsa@gmail.com</p>
+                    <p>anjanhalder48@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -524,7 +524,7 @@ hive, Basic Unix command, Vmware </div>
     </div>
     <footer class="footer">
       <div class="container text-center"><a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a><a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a><a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a><a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a></div>
-      <div class="h4 title text-center">Md. Jahirul Islam</div>
+      <div class="h4 title text-center">Anjan Halder</div>
       <div class="text-center text-muted">
         <p>&copy; Creative CV. All rights reserved.<br>Design - <a class="credit" href="https://templateflip.com" target="_blank">TemplateFlip</a></p>
       </div>
