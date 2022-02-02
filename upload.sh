@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "new changed"
-git push -U origin main
+git push -u origin main
