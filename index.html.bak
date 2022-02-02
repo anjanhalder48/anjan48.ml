@@ -50,7 +50,7 @@
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/anjan.jpg" alt="Image"/></a></div>
           <div class="h2 title">Anjan Halder</div>
-          <p class="category text-white">Software Engineers, IoT Developer, Photographer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="images/Jahiruls_ResumeAll.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+          <p class="category text-white">Software Engineer, IoT Developer, Programmer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="images/Jahiruls_ResumeAll.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
         </div>
       </div>
       <div class="section">
@@ -157,7 +157,7 @@
         </div>
         <div class="row">
           <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">Bootstrap</span>
+            <div class="progress-container progress-primary"><span class="progress-badge">MySQL</span>
               <div class="progress">
                 <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
               </div>
@@ -206,7 +206,7 @@
                     </a></div>
                   
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#projects">
-                 <div class="h4"><a href="https://electricity-bill-management-system.000webhostapp.com/">Electricity Bill Management System (2019)</a></div>
+                 <div class="h4"><a href="https://electricity-bill-management-system.000webhostapp.com/">Online Retail Management System (2018)</a></div>
                     </a></div>
                   
             </div>
