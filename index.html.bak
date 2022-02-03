@@ -269,7 +269,8 @@ hive, Basic Unix command, Vmware </div>
           <div class="card-body">
             <div class="h5">Mongol Ovizatrik'71 at CUET</div>
             <div class="category">Technical Team Lead</div>
-			<div class="category">Minesweepers: Towards a landmine free world</div>
+			<div> <b></b> Minesweepers: Towards a landmine free world</div>
+			
           </div>
         </div>
       </div>
